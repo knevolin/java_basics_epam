@@ -1,0 +1,6 @@
+To compile:
+cd c:\work\cons\src\org\company\start
+javac X.java
+
+To run:
+java X
